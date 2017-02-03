@@ -1,0 +1,2707 @@
+﻿$axure.loadCurrentPage({
+  "url":"框架-执行中心.html",
+  "generationDate":new Date(1427418387947.3),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"7869ed49137b4f698b4bb397b72481e4",
+    "type":"Axure:Page",
+    "name":"框架-执行中心",
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"center",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFF666666},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"微软雅黑",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"3743ef47471d4af29509aae6056004e1",
+          "label":"主区域",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":36},
+            "size":{
+              "width":1200,
+              "height":614}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"6d82d6fd31d246838f90dfef8a6b9be1",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"8fdd5f78f6a24684b3f5ae70203d404f",
+                  "label":"主区域滑动内容",
+                  "parentDynamicPanel":"3743ef47471d4af29509aae6056004e1",
+                  "panelIndex":0,
+                  "type":"dynamicPanel",
+                  "styleType":"dynamicPanel",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":1460,
+                      "height":614}},
+                  "adaptiveStyles":{
+},
+                  "scrollbars":"none",
+                  "fitToContent":true,
+                  "propagate":false,
+                  "diagrams":[{
+                      "id":"01cc948d125147fcb13ddae25679b6c0",
+                      "label":"状态1",
+                      "type":"Axure:PanelDiagram",
+                      "objects":[{
+                          "id":"e2bb9707190d47a9a86664d3c8023e43",
+                          "label":"",
+                          "parentDynamicPanel":"8fdd5f78f6a24684b3f5ae70203d404f",
+                          "panelIndex":0,
+                          "type":"imageBox",
+                          "styleType":"imageBox",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                            "fontWeight":"400",
+                            "fontStyle":"normal",
+                            "size":{
+                              "width":1200,
+                              "height":614}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"786074e3df07446bafaa40fd8663fc60",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"8fdd5f78f6a24684b3f5ae70203d404f",
+                              "panelIndex":0,
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                                "fontWeight":"400",
+                                "fontStyle":"normal",
+                                "size":{
+                                  "width":1200,
+                                  "height":614}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/框架-执行中心/u2.jpg"}},
+{
+                          "id":"f9462c58031f47ff9f7c676f89bb5878",
+                          "label":"",
+                          "parentDynamicPanel":"8fdd5f78f6a24684b3f5ae70203d404f",
+                          "panelIndex":0,
+                          "type":"imageBox",
+                          "styleType":"imageBox",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                            "fontWeight":"400",
+                            "fontStyle":"normal",
+                            "location":{
+                              "x":1200,
+                              "y":0},
+                            "size":{
+                              "width":260,
+                              "height":614}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"137a7aaf2395410fac118e1a26518679",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"8fdd5f78f6a24684b3f5ae70203d404f",
+                              "panelIndex":0,
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                                "fontWeight":"400",
+                                "fontStyle":"normal",
+                                "location":{
+                                  "x":1200,
+                                  "y":0},
+                                "size":{
+                                  "width":260,
+                                  "height":614}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/框架-管控中心/u57.png"}},
+{
+                          "id":"b9e8378cf2314f1a978a6876660c219b",
+                          "label":"",
+                          "parentDynamicPanel":"8fdd5f78f6a24684b3f5ae70203d404f",
+                          "panelIndex":0,
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":20,
+                              "y":200},
+                            "size":{
+                              "width":450,
+                              "height":400}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setPanelOrder",
+                                      "description":"移动 操作界面 到顶层 ",
+                                      "panelPaths":[{
+                                          "panelPath":["8970b1fd265e44b5a458a271710d1dee"],
+                                          "setOrderInfo":{
+                                            "bringToFront":true}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 操作界面 淡入淡出 500 毫秒",
+                                      "objectsToFades":[{
+                                          "objectPath":["8970b1fd265e44b5a458a271710d1dee"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "easing":"fade",
+                                              "duration":500,
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true}],
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "image":null,
+                        "imageHorizontalAlignment":"near",
+                        "imageVerticalAlignment":"near",
+                        "imageRepeat":"auto"},
+                      "adaptiveStyles":{
+}}]},
+{
+                  "id":"961ba39e02c54fcfad8f67c3c356b14a",
+                  "label":"四个中心切换",
+                  "parentDynamicPanel":"3743ef47471d4af29509aae6056004e1",
+                  "panelIndex":0,
+                  "type":"dynamicPanel",
+                  "styleType":"dynamicPanel",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":10,
+                      "y":532},
+                    "size":{
+                      "width":10,
+                      "height":10}},
+                  "adaptiveStyles":{
+},
+                  "scrollbars":"none",
+                  "fitToContent":true,
+                  "propagate":false,
+                  "diagrams":[{
+                      "id":"047318c06deb41ecb125ca459ae36bed",
+                      "label":"状态1",
+                      "type":"Axure:PanelDiagram",
+                      "objects":[{
+                          "id":"a2645f11f2c544e2b27b107c71487197",
+                          "label":"",
+                          "parentDynamicPanel":"961ba39e02c54fcfad8f67c3c356b14a",
+                          "panelIndex":0,
+                          "type":"imageBox",
+                          "styleType":"imageBox",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                            "fontWeight":"400",
+                            "fontStyle":"normal",
+                            "location":{
+                              "x":11,
+                              "y":23},
+                            "size":{
+                              "width":32,
+                              "height":32}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"f6fd5d77e7964704a58efb220e1b1881",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"961ba39e02c54fcfad8f67c3c356b14a",
+                              "panelIndex":0,
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                                "fontWeight":"400",
+                                "fontStyle":"normal",
+                                "location":{
+                                  "x":11,
+                                  "y":23},
+                                "size":{
+                                  "width":32,
+                                  "height":32}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setPanelState",
+                                      "description":"设置 四个中心切换 to 状态2 淡入淡出 out 500ms 淡入淡出 in 500ms",
+                                      "panelsToStates":[{
+                                          "panelPath":["961ba39e02c54fcfad8f67c3c356b14a"],
+                                          "stateInfo":{
+                                            "setStateType":"diagram",
+                                            "stateNumber":2,
+                                            "stateValue":{
+                                              "exprType":"stringLiteral",
+                                              "value":"1",
+                                              "stos":[]},
+                                            "loop":false,
+                                            "showWhenSet":false,
+                                            "options":{
+                                              "animateOut":{
+                                                "easing":"fade",
+                                                "duration":500},
+                                              "animateIn":{
+                                                "easing":"fade",
+                                                "duration":500},
+                                              "compress":false}}}]}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/框架-管控中心/u89.png"}}],
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "image":null,
+                        "imageHorizontalAlignment":"near",
+                        "imageVerticalAlignment":"near",
+                        "imageRepeat":"auto"},
+                      "adaptiveStyles":{
+}},
+{
+                      "id":"7e6e3f96e60b4f4ba66845d4259ee54b",
+                      "label":"状态2",
+                      "type":"Axure:PanelDiagram",
+                      "objects":[{
+                          "id":"b5b047ac8576480ca85aae8245f117ae",
+                          "label":"",
+                          "parentDynamicPanel":"961ba39e02c54fcfad8f67c3c356b14a",
+                          "panelIndex":1,
+                          "type":"imageBox",
+                          "styleType":"imageBox",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                            "fontWeight":"400",
+                            "fontStyle":"normal",
+                            "size":{
+                              "width":339,
+                              "height":76}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"1427e6169538481fb355c93949146293",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"961ba39e02c54fcfad8f67c3c356b14a",
+                              "panelIndex":1,
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                                "fontWeight":"400",
+                                "fontStyle":"normal",
+                                "size":{
+                                  "width":339,
+                                  "height":76}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/框架-管控中心/u91.png"}},
+{
+                          "id":"e2e2eca2c26341639e0ca00e44f6c051",
+                          "label":"",
+                          "parentDynamicPanel":"961ba39e02c54fcfad8f67c3c356b14a",
+                          "panelIndex":1,
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":10,
+                              "y":13},
+                            "size":{
+                              "width":40,
+                              "height":57}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setPanelState",
+                                      "description":"设置 四个中心切换 to 状态1 淡入淡出 out 500ms 淡入淡出 in 500ms",
+                                      "panelsToStates":[{
+                                          "panelPath":["961ba39e02c54fcfad8f67c3c356b14a"],
+                                          "stateInfo":{
+                                            "setStateType":"diagram",
+                                            "stateNumber":1,
+                                            "stateValue":{
+                                              "exprType":"stringLiteral",
+                                              "value":"1",
+                                              "stos":[]},
+                                            "loop":false,
+                                            "showWhenSet":false,
+                                            "options":{
+                                              "animateOut":{
+                                                "easing":"fade",
+                                                "duration":500},
+                                              "animateIn":{
+                                                "easing":"fade",
+                                                "duration":500},
+                                              "compress":false}}}]}]}]}},
+                          "tabbable":true},
+{
+                          "id":"a61048e6c25d48c7bf0d4ad85c59950f",
+                          "label":"",
+                          "parentDynamicPanel":"961ba39e02c54fcfad8f67c3c356b14a",
+                          "panelIndex":1,
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":50,
+                              "y":10},
+                            "size":{
+                              "width":70,
+                              "height":57}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"linkWindow",
+                                      "description":"在 当前窗口 打开 框架-支撑中心",
+                                      "target":{
+                                        "targetType":"page",
+                                        "url":"框架-支撑中心.html",
+                                        "includeVariables":true},
+                                      "linkType":"current"}]}]}},
+                          "tabbable":true},
+{
+                          "id":"f11ca21721474af09751eb3f7c4baa89",
+                          "label":"",
+                          "parentDynamicPanel":"961ba39e02c54fcfad8f67c3c356b14a",
+                          "panelIndex":1,
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":120,
+                              "y":10},
+                            "size":{
+                              "width":70,
+                              "height":57}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"linkWindow",
+                                      "description":"在 当前窗口 打开 框架-数据交互中心",
+                                      "target":{
+                                        "targetType":"page",
+                                        "url":"框架-数据交互中心.html",
+                                        "includeVariables":true},
+                                      "linkType":"current"}]}]}},
+                          "tabbable":true},
+{
+                          "id":"926494e3fb1f471794c124b04906fb51",
+                          "label":"",
+                          "parentDynamicPanel":"961ba39e02c54fcfad8f67c3c356b14a",
+                          "panelIndex":1,
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":190,
+                              "y":10},
+                            "size":{
+                              "width":70,
+                              "height":57}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"linkWindow",
+                                      "description":"在 当前窗口 打开 框架-管控中心",
+                                      "target":{
+                                        "targetType":"page",
+                                        "url":"框架-管控中心.html",
+                                        "includeVariables":true},
+                                      "linkType":"current"}]}]}},
+                          "tabbable":true},
+{
+                          "id":"47a6ec085630449296f8464474277702",
+                          "label":"",
+                          "parentDynamicPanel":"961ba39e02c54fcfad8f67c3c356b14a",
+                          "panelIndex":1,
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":260,
+                              "y":10},
+                            "size":{
+                              "width":70,
+                              "height":57}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"linkWindow",
+                                      "description":"在 当前窗口 打开 框架-执行中心",
+                                      "target":{
+                                        "targetType":"page",
+                                        "url":"框架-执行中心.html",
+                                        "includeVariables":true},
+                                      "linkType":"current"}]}]}},
+                          "tabbable":true}],
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "image":null,
+                        "imageHorizontalAlignment":"near",
+                        "imageVerticalAlignment":"near",
+                        "imageRepeat":"auto"},
+                      "adaptiveStyles":{
+}}]}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"a10020ed7e054de3a835d576f71efc73",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "size":{
+              "width":1200,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6d693d9438184f16a7a2bf859fa3bc9b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "size":{
+                  "width":1200,
+                  "height":36}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/框架-管控中心/u98.jpg"}},
+{
+          "id":"8970b1fd265e44b5a458a271710d1dee",
+          "label":"操作界面",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":0,
+              "y":36},
+            "size":{
+              "width":10,
+              "height":10},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"0b964d5f68304863b4e3d65a77beafe8",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"203d839670684b6da69fb924275d7055",
+                  "label":"",
+                  "parentDynamicPanel":"8970b1fd265e44b5a458a271710d1dee",
+                  "panelIndex":0,
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "size":{
+                      "width":1200,
+                      "height":614}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"b63fffef8477499bb344a17f150d7f6c",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"8970b1fd265e44b5a458a271710d1dee",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontWeight":"400",
+                        "fontStyle":"normal",
+                        "size":{
+                          "width":1200,
+                          "height":614}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/框架-执行中心/u20.jpg"}},
+{
+                  "id":"9e80f4fb09bd4ad0afa4f3388ff642e4",
+                  "label":"",
+                  "parentDynamicPanel":"8970b1fd265e44b5a458a271710d1dee",
+                  "panelIndex":0,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":40,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 操作界面 淡入淡出 500 毫秒",
+                              "objectsToFades":[{
+                                  "objectPath":["8970b1fd265e44b5a458a271710d1dee"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true},
+{
+                  "id":"d8fe0364d209489497b9de0f4cde11f1",
+                  "label":"弹出窗",
+                  "parentDynamicPanel":"8970b1fd265e44b5a458a271710d1dee",
+                  "panelIndex":0,
+                  "type":"dynamicPanel",
+                  "styleType":"dynamicPanel",
+                  "visible":false,
+                  "style":{
+                    "location":{
+                      "x":395,
+                      "y":130},
+                    "size":{
+                      "width":10,
+                      "height":10},
+                    "visible":false},
+                  "adaptiveStyles":{
+},
+                  "scrollbars":"none",
+                  "fitToContent":true,
+                  "propagate":false,
+                  "diagrams":[{
+                      "id":"dba9d44f6ad2422a98527e691c4b8085",
+                      "label":"状态1",
+                      "type":"Axure:PanelDiagram",
+                      "objects":[{
+                          "id":"da9a24961ec442978c8f56034d56239d",
+                          "label":"",
+                          "parentDynamicPanel":"d8fe0364d209489497b9de0f4cde11f1",
+                          "panelIndex":0,
+                          "type":"imageBox",
+                          "styleType":"imageBox",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                            "fontWeight":"400",
+                            "fontStyle":"normal",
+                            "size":{
+                              "width":410,
+                              "height":260}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"0df42b78ab954fcb82f608ccc37028f9",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"d8fe0364d209489497b9de0f4cde11f1",
+                              "panelIndex":0,
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                                "fontWeight":"400",
+                                "fontStyle":"normal",
+                                "size":{
+                                  "width":410,
+                                  "height":260}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/框架-执行中心/u24.png"}},
+{
+                          "id":"759a665308cb4a139a07c6bcb4019ef2",
+                          "label":"",
+                          "parentDynamicPanel":"d8fe0364d209489497b9de0f4cde11f1",
+                          "panelIndex":0,
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":10,
+                              "y":10},
+                            "size":{
+                              "width":390,
+                              "height":250}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 弹出窗 淡入淡出 500 毫秒",
+                                      "objectsToFades":[{
+                                          "objectPath":["d8fe0364d209489497b9de0f4cde11f1"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "easing":"fade",
+                                              "duration":500,
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true}],
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "image":null,
+                        "imageHorizontalAlignment":"near",
+                        "imageVerticalAlignment":"near",
+                        "imageRepeat":"auto"},
+                      "adaptiveStyles":{
+}}]},
+{
+                  "id":"b648a5db462946a583465eea95dd2d49",
+                  "label":"",
+                  "parentDynamicPanel":"8970b1fd265e44b5a458a271710d1dee",
+                  "panelIndex":0,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":10,
+                      "y":70},
+                    "size":{
+                      "width":130,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"显示 弹出窗 淡入淡出 500 毫秒 遮罩效果",
+                              "objectsToFades":[{
+                                  "objectPath":["d8fe0364d209489497b9de0f4cde11f1"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"lightbox",
+                                      "lightbox":{
+                                        "r":0,
+                                        "g":0,
+                                        "b":0,
+                                        "a":127}}}}]}]}]}},
+                  "tabbable":true}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"5918fcf18aed4912a277944bf2883888",
+          "label":"通知弹出",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":900,
+              "y":36},
+            "size":{
+              "width":10,
+              "height":10},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"653e1392636e4cb5a7209d0949fced36",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"992509cab1e144469948cd6bc4c39ba7",
+                  "label":"",
+                  "parentDynamicPanel":"5918fcf18aed4912a277944bf2883888",
+                  "panelIndex":0,
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "size":{
+                      "width":294,
+                      "height":163}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a0da89f1cf0d4d40afe9bcb1e4930c46",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"5918fcf18aed4912a277944bf2883888",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontWeight":"400",
+                        "fontStyle":"normal",
+                        "size":{
+                          "width":294,
+                          "height":163}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/框架-管控中心/u105.png"}},
+{
+                  "id":"fac5be3b199f4a36869b03ec2a3b1b7f",
+                  "label":"",
+                  "parentDynamicPanel":"5918fcf18aed4912a277944bf2883888",
+                  "panelIndex":0,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":240,
+                      "y":0},
+                    "size":{
+                      "width":50,
+                      "height":50}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 通知弹出 向上滑动 500 毫秒",
+                              "objectsToFades":[{
+                                  "objectPath":["5918fcf18aed4912a277944bf2883888"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideUp",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true},
+{
+                  "id":"d2786358ca0e4d2782cf61c9053530b1",
+                  "label":"",
+                  "parentDynamicPanel":"5918fcf18aed4912a277944bf2883888",
+                  "panelIndex":0,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":20,
+                      "y":102},
+                    "size":{
+                      "width":90,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"显示 操作界面 淡入淡出 500 毫秒",
+                              "objectsToFades":[{
+                                  "objectPath":["8970b1fd265e44b5a458a271710d1dee"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"隐藏 通知弹出 向上滑动 500 毫秒",
+                              "objectsToFades":[{
+                                  "objectPath":["5918fcf18aed4912a277944bf2883888"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideUp",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true},
+{
+                  "id":"7a3699498b104c20be016919bb8f6fb3",
+                  "label":"",
+                  "parentDynamicPanel":"5918fcf18aed4912a277944bf2883888",
+                  "panelIndex":0,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":120,
+                      "y":102},
+                    "size":{
+                      "width":100,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 通知弹出 向上滑动 500 毫秒",
+                              "objectsToFades":[{
+                                  "objectPath":["5918fcf18aed4912a277944bf2883888"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideUp",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"4f2a8893dc6248049f7c7e80a371b860",
+          "label":"搜索面板",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":5},
+            "size":{
+              "width":10,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"409df8a75ccb4bbab2eb97ba12afc6b4",
+              "label":"未输入关键字",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"0d030538030840bc9c932dcb0bfbf366",
+                  "label":"",
+                  "parentDynamicPanel":"4f2a8893dc6248049f7c7e80a371b860",
+                  "panelIndex":0,
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "location":{
+                      "x":470,
+                      "y":0},
+                    "size":{
+                      "width":260,
+                      "height":26}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"de1ecfc7d31146988675598f77a55837",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"4f2a8893dc6248049f7c7e80a371b860",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontWeight":"400",
+                        "fontStyle":"normal",
+                        "location":{
+                          "x":470,
+                          "y":0},
+                        "size":{
+                          "width":260,
+                          "height":26}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/框架-管控中心/u111.png"}},
+{
+                  "id":"4d4ad77915cb4cdbb12f9e213f7c8a6e",
+                  "label":"",
+                  "parentDynamicPanel":"4f2a8893dc6248049f7c7e80a371b860",
+                  "panelIndex":0,
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFC9C9C9,
+                      "opacity":1},
+                    "location":{
+                      "x":503,
+                      "y":4},
+                    "size":{
+                      "width":217,
+                      "height":20}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"de4c281caa944423a03e0261fe3e67f5",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"4f2a8893dc6248049f7c7e80a371b860",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontWeight":"400",
+                        "fontStyle":"normal",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFC9C9C9,
+                          "opacity":1},
+                        "location":{
+                          "x":503,
+                          "y":4},
+                        "size":{
+                          "width":217,
+                          "height":20}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"a9bc78e993f04e929211ebff94ac38ad",
+                  "label":"",
+                  "parentDynamicPanel":"4f2a8893dc6248049f7c7e80a371b860",
+                  "panelIndex":0,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":470,
+                      "y":0},
+                    "size":{
+                      "width":260,
+                      "height":26}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 搜索面板 to 已输入关键字 淡入淡出 out 500ms 淡入淡出 in 500ms",
+                              "panelsToStates":[{
+                                  "panelPath":["4f2a8893dc6248049f7c7e80a371b860"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "animateOut":{
+                                        "easing":"fade",
+                                        "duration":500},
+                                      "animateIn":{
+                                        "easing":"fade",
+                                        "duration":500},
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"8f7174a0add648d895954abf67d3ee9b",
+              "label":"已输入关键字",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"d9813fe8856e4795bb4c19c0e636eeae",
+                  "label":"",
+                  "parentDynamicPanel":"4f2a8893dc6248049f7c7e80a371b860",
+                  "panelIndex":1,
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "location":{
+                      "x":470,
+                      "y":0},
+                    "size":{
+                      "width":260,
+                      "height":26}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"61d5c8a0b0294b4f89dd6b36fcd60487",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"4f2a8893dc6248049f7c7e80a371b860",
+                      "panelIndex":1,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontWeight":"400",
+                        "fontStyle":"normal",
+                        "location":{
+                          "x":470,
+                          "y":0},
+                        "size":{
+                          "width":260,
+                          "height":26}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/框架-管控中心/u111.png"}},
+{
+                  "id":"c79ba3acc9c14142a5b6bbcc38dec376",
+                  "label":"",
+                  "parentDynamicPanel":"4f2a8893dc6248049f7c7e80a371b860",
+                  "panelIndex":1,
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "location":{
+                      "x":707,
+                      "y":5},
+                    "size":{
+                      "width":16,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c8314189c43e43f6b38017ef76df1f18",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"4f2a8893dc6248049f7c7e80a371b860",
+                      "panelIndex":1,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontWeight":"400",
+                        "fontStyle":"normal",
+                        "location":{
+                          "x":707,
+                          "y":5},
+                        "size":{
+                          "width":16,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/框架-管控中心/u118.png"}},
+{
+                  "id":"ae40e578c13f4fb68c5b9d32575a3eff",
+                  "label":"",
+                  "parentDynamicPanel":"4f2a8893dc6248049f7c7e80a371b860",
+                  "panelIndex":1,
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "location":{
+                      "x":0,
+                      "y":31},
+                    "size":{
+                      "width":1200,
+                      "height":614}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f9d2e2fd41894ec095afa7690acde71b",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"4f2a8893dc6248049f7c7e80a371b860",
+                      "panelIndex":1,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontWeight":"400",
+                        "fontStyle":"normal",
+                        "location":{
+                          "x":0,
+                          "y":31},
+                        "size":{
+                          "width":1200,
+                          "height":614}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/框架-管控中心/u120.png"}},
+{
+                  "id":"81f367e2b7e34495b5bb494df612944f",
+                  "label":"",
+                  "parentDynamicPanel":"4f2a8893dc6248049f7c7e80a371b860",
+                  "panelIndex":1,
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":503,
+                      "y":4},
+                    "size":{
+                      "width":204,
+                      "height":20}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"9336c364b8b84c9dbdb171958cef0aa6",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"4f2a8893dc6248049f7c7e80a371b860",
+                      "panelIndex":1,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontWeight":"400",
+                        "fontStyle":"normal",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":503,
+                          "y":4},
+                        "size":{
+                          "width":204,
+                          "height":20}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"c726855a9e0446ce85e00975d99357d2",
+                  "label":"",
+                  "parentDynamicPanel":"4f2a8893dc6248049f7c7e80a371b860",
+                  "panelIndex":1,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":700,
+                      "y":0},
+                    "size":{
+                      "width":30,
+                      "height":26}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 搜索面板 to 未输入关键字 淡入淡出 out 500ms 淡入淡出 in 500ms",
+                              "panelsToStates":[{
+                                  "panelPath":["4f2a8893dc6248049f7c7e80a371b860"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "animateOut":{
+                                        "easing":"fade",
+                                        "duration":500},
+                                      "animateIn":{
+                                        "easing":"fade",
+                                        "duration":500},
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"6e0dc1b4d6f24950bf3d4d32de336261",
+          "label":"侧边控制按钮",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1160,
+              "y":0},
+            "size":{
+              "width":10,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"a314426e668c4829849bfc57bf1ed0a3",
+              "label":"关闭状态",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"d6d755db32ff4dff8dbb3e12ef564049",
+                  "label":"",
+                  "parentDynamicPanel":"6e0dc1b4d6f24950bf3d4d32de336261",
+                  "panelIndex":0,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":40,
+                      "height":36}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 主区域滑动内容 到 (-260,0) 缓慢进入退出 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["8fdd5f78f6a24684b3f5ae70203d404f"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"-260",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"easeInOutCubic",
+                                      "duration":500}}}]},
+{
+                              "action":"setPanelState",
+                              "description":"设置 侧边控制按钮 to 打开状态",
+                              "panelsToStates":[{
+                                  "panelPath":["6e0dc1b4d6f24950bf3d4d32de336261"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"2fdf214bb5ff49d38a7a5a54ed677f58",
+              "label":"打开状态",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"e1a37f2e86904882bd2ddae5f6434b2c",
+                  "label":"",
+                  "parentDynamicPanel":"6e0dc1b4d6f24950bf3d4d32de336261",
+                  "panelIndex":1,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":40,
+                      "height":36}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 主区域滑动内容 到 (0,0) 缓慢进入退出 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["8fdd5f78f6a24684b3f5ae70203d404f"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"easeInOutCubic",
+                                      "duration":500}}}]},
+{
+                              "action":"setPanelState",
+                              "description":"设置 侧边控制按钮 to 关闭状态",
+                              "panelsToStates":[{
+                                  "panelPath":["6e0dc1b4d6f24950bf3d4d32de336261"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"e0949210e6f54c16ae9c06b318d2e068",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1110,
+              "y":0},
+            "size":{
+              "width":50,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示 通知弹出 向下滑动 500 毫秒",
+                      "objectsToFades":[{
+                          "objectPath":["5918fcf18aed4912a277944bf2883888"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"slideDown",
+                              "duration":500,
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"a4212a23a8b14efbb39643f6318a8ec5",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1060,
+              "y":0},
+            "size":{
+              "width":50,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示 消息弹出 向下滑动 500 毫秒",
+                      "objectsToFades":[{
+                          "objectPath":["d449fda72044481d9d4477cf4c0d3e21"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"slideDown",
+                              "duration":500,
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"8a5674ef80244e98b49a9bebe1d71dcc",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":950,
+              "y":0},
+            "size":{
+              "width":110,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示 个人弹出 向下滑动 500 毫秒",
+                      "objectsToFades":[{
+                          "objectPath":["b69d7e575a024ae4a24ff52f40e6aa14"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "easing":"slideDown",
+                              "duration":500,
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"b69d7e575a024ae4a24ff52f40e6aa14",
+          "label":"个人弹出",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":800,
+              "y":36},
+            "size":{
+              "width":10,
+              "height":10},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"e21874e9ed0e4bc4b34fc24980a764ca",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"fddb94daf7fb4fab8446d54829879631",
+                  "label":"",
+                  "parentDynamicPanel":"b69d7e575a024ae4a24ff52f40e6aa14",
+                  "panelIndex":0,
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "size":{
+                      "width":266,
+                      "height":400}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f03f864d4eb342fb9cd466e8d3a60640",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"b69d7e575a024ae4a24ff52f40e6aa14",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontWeight":"400",
+                        "fontStyle":"normal",
+                        "size":{
+                          "width":266,
+                          "height":400}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/框架-管控中心/u133.png"}},
+{
+                  "id":"e59a8f5b7b7a49d08affc15225664f01",
+                  "label":"",
+                  "parentDynamicPanel":"b69d7e575a024ae4a24ff52f40e6aa14",
+                  "panelIndex":0,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":10},
+                    "size":{
+                      "width":260,
+                      "height":290}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 个人弹出 向上滑动 500 毫秒",
+                              "objectsToFades":[{
+                                  "objectPath":["b69d7e575a024ae4a24ff52f40e6aa14"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideUp",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true},
+{
+                  "id":"34dcbcdd3ef142899cb06a0c000efd99",
+                  "label":"",
+                  "parentDynamicPanel":"b69d7e575a024ae4a24ff52f40e6aa14",
+                  "panelIndex":0,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":10,
+                      "y":310},
+                    "size":{
+                      "width":240,
+                      "height":80}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 新登录页",
+                              "target":{
+                                "targetType":"page",
+                                "url":"新登录页.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"d449fda72044481d9d4477cf4c0d3e21",
+          "label":"消息弹出",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":740,
+              "y":36},
+            "size":{
+              "width":10,
+              "height":10},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"0c999c2a1e7345608d773c5c7ede94e1",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"4a4e8043b5e04c4fb6c95d3fdd36488d",
+                  "label":"",
+                  "parentDynamicPanel":"d449fda72044481d9d4477cf4c0d3e21",
+                  "panelIndex":0,
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "size":{
+                      "width":367,
+                      "height":234}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"3a5c223daffa45e297d5d2b2e48995bb",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"d449fda72044481d9d4477cf4c0d3e21",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontWeight":"400",
+                        "fontStyle":"normal",
+                        "size":{
+                          "width":367,
+                          "height":234}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 消息弹出 向上滑动 500 毫秒",
+                              "objectsToFades":[{
+                                  "objectPath":["d449fda72044481d9d4477cf4c0d3e21"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideUp",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/框架-管控中心/u138.png"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"70af64fb45e14571be903bd193aa1a00",
+          "label":"运行态势全屏",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":0,
+              "y":40},
+            "size":{
+              "width":10,
+              "height":10},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"325bb58b38254efeaee924351928ff93",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"743526952e2748058aeafd7d48df471e",
+                  "label":"",
+                  "parentDynamicPanel":"70af64fb45e14571be903bd193aa1a00",
+                  "panelIndex":0,
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "size":{
+                      "width":1193,
+                      "height":604}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"7232fb9535414c78b88c689aed809e28",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"70af64fb45e14571be903bd193aa1a00",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontWeight":"400",
+                        "fontStyle":"normal",
+                        "size":{
+                          "width":1193,
+                          "height":604}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/框架-管控中心/u141.png"}},
+{
+                  "id":"7903f796755d4bc5a850dcd1ada0a7da",
+                  "label":"",
+                  "parentDynamicPanel":"70af64fb45e14571be903bd193aa1a00",
+                  "panelIndex":0,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":1135.19995117188,
+                      "y":10},
+                    "size":{
+                      "width":50,
+                      "height":50}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 运行态势全屏 淡入淡出 500 毫秒",
+                              "objectsToFades":[{
+                                  "objectPath":["70af64fb45e14571be903bd193aa1a00"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"5a4db4ffaf064488ba7ebb87b4a4b9be",
+          "label":"主菜单",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":0,
+              "y":35},
+            "size":{
+              "width":10,
+              "height":10},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"99ccae103cec4bdcb4d73d9f1df13921",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"ed5b5244bec24a11a767f6deffdd84d2",
+                  "label":"主菜单mask",
+                  "parentDynamicPanel":"5a4db4ffaf064488ba7ebb87b4a4b9be",
+                  "panelIndex":0,
+                  "type":"dynamicPanel",
+                  "styleType":"dynamicPanel",
+                  "visible":false,
+                  "style":{
+                    "size":{
+                      "width":10,
+                      "height":10},
+                    "visible":false},
+                  "adaptiveStyles":{
+},
+                  "scrollbars":"none",
+                  "fitToContent":true,
+                  "propagate":false,
+                  "diagrams":[{
+                      "id":"ddd25660303b46e59069ea6c83fbb58b",
+                      "label":"状态1",
+                      "type":"Axure:PanelDiagram",
+                      "objects":[{
+                          "id":"9d8c46fd3e8644ed9261e4b4a2e01341",
+                          "label":"",
+                          "parentDynamicPanel":"ed5b5244bec24a11a767f6deffdd84d2",
+                          "panelIndex":0,
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                            "fontWeight":"400",
+                            "fontStyle":"normal",
+                            "opacity":"0.5",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF000000},
+                            "size":{
+                              "width":1200,
+                              "height":614},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"a7905eae839a46cc9099d774c00fb989",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"ed5b5244bec24a11a767f6deffdd84d2",
+                              "panelIndex":0,
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                                "fontWeight":"400",
+                                "fontStyle":"normal",
+                                "opacity":"0.5",
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000},
+                                "size":{
+                                  "width":1200,
+                                  "height":614},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFF}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/框架-管控中心/u146.png"}}],
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "image":null,
+                        "imageHorizontalAlignment":"near",
+                        "imageVerticalAlignment":"near",
+                        "imageRepeat":"auto"},
+                      "adaptiveStyles":{
+}}]},
+{
+                  "id":"7882dc887392438ea91d77236f11fae3",
+                  "label":"主菜单滑动面板",
+                  "parentDynamicPanel":"5a4db4ffaf064488ba7ebb87b4a4b9be",
+                  "panelIndex":0,
+                  "type":"dynamicPanel",
+                  "styleType":"dynamicPanel",
+                  "visible":false,
+                  "style":{
+                    "size":{
+                      "width":10,
+                      "height":10},
+                    "visible":false},
+                  "adaptiveStyles":{
+},
+                  "scrollbars":"none",
+                  "fitToContent":true,
+                  "propagate":false,
+                  "diagrams":[{
+                      "id":"abd26e9453af4fc6915af2b767ee725c",
+                      "label":"状态1",
+                      "type":"Axure:PanelDiagram",
+                      "objects":[{
+                          "id":"a9ac554c49764352b409ed502cc39688",
+                          "label":"",
+                          "parentDynamicPanel":"7882dc887392438ea91d77236f11fae3",
+                          "panelIndex":0,
+                          "type":"imageBox",
+                          "styleType":"imageBox",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                            "fontWeight":"400",
+                            "fontStyle":"normal",
+                            "size":{
+                              "width":945,
+                              "height":614}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"199978f06f314e218d6fe90411b6b353",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"7882dc887392438ea91d77236f11fae3",
+                              "panelIndex":0,
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                                "fontWeight":"400",
+                                "fontStyle":"normal",
+                                "size":{
+                                  "width":945,
+                                  "height":614}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/框架-管控中心/u149.jpg"}},
+{
+                          "id":"44b9c462caa342f082b849ee3f90e138",
+                          "label":"",
+                          "parentDynamicPanel":"7882dc887392438ea91d77236f11fae3",
+                          "panelIndex":0,
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":880,
+                              "y":13},
+                            "size":{
+                              "width":40,
+                              "height":40}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 主菜单mask 淡入淡出 500 毫秒,<br>主菜单滑动面板 向左滑动 500 毫秒",
+                                      "objectsToFades":[{
+                                          "objectPath":["ed5b5244bec24a11a767f6deffdd84d2"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "easing":"fade",
+                                              "duration":500,
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7882dc887392438ea91d77236f11fae3"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "easing":"slideLeft",
+                                              "duration":500,
+                                              "showType":"none"}}}]},
+{
+                                      "action":"setPanelState",
+                                      "description":"设置 主菜单控制 to 关闭状态",
+                                      "panelsToStates":[{
+                                          "panelPath":["1c49b5405ff64555a50c178832d5d56c"],
+                                          "stateInfo":{
+                                            "setStateType":"diagram",
+                                            "stateNumber":1,
+                                            "stateValue":{
+                                              "exprType":"stringLiteral",
+                                              "value":"1",
+                                              "stos":[]},
+                                            "loop":false,
+                                            "showWhenSet":false,
+                                            "options":{
+                                              "compress":false}}}]}]}]}},
+                          "tabbable":true},
+{
+                          "id":"ae2850f8964b4cabb900577153da3bb6",
+                          "label":"",
+                          "parentDynamicPanel":"7882dc887392438ea91d77236f11fae3",
+                          "panelIndex":0,
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":8,
+                              "y":7},
+                            "size":{
+                              "width":40,
+                              "height":40}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 主菜单mask 淡入淡出 500 毫秒,<br>主菜单滑动面板 向左滑动 500 毫秒",
+                                      "objectsToFades":[{
+                                          "objectPath":["ed5b5244bec24a11a767f6deffdd84d2"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "easing":"fade",
+                                              "duration":500,
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7882dc887392438ea91d77236f11fae3"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "easing":"slideLeft",
+                                              "duration":500,
+                                              "showType":"none"}}}]},
+{
+                                      "action":"setPanelState",
+                                      "description":"设置 主菜单控制 to 关闭状态",
+                                      "panelsToStates":[{
+                                          "panelPath":["1c49b5405ff64555a50c178832d5d56c"],
+                                          "stateInfo":{
+                                            "setStateType":"diagram",
+                                            "stateNumber":1,
+                                            "stateValue":{
+                                              "exprType":"stringLiteral",
+                                              "value":"1",
+                                              "stos":[]},
+                                            "loop":false,
+                                            "showWhenSet":false,
+                                            "options":{
+                                              "compress":false}}}]}]}]}},
+                          "tabbable":true},
+{
+                          "id":"62f0c8dd20854ec8ae76c5e1651cf6c8",
+                          "label":"",
+                          "parentDynamicPanel":"7882dc887392438ea91d77236f11fae3",
+                          "panelIndex":0,
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":200,
+                              "y":80},
+                            "size":{
+                              "width":720,
+                              "height":530}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"显示 操作界面 淡入淡出 500 毫秒",
+                                      "objectsToFades":[{
+                                          "objectPath":["8970b1fd265e44b5a458a271710d1dee"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "easing":"fade",
+                                              "duration":500,
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 主菜单mask 淡入淡出 500 毫秒,<br>主菜单滑动面板 向左滑动 500 毫秒",
+                                      "objectsToFades":[{
+                                          "objectPath":["ed5b5244bec24a11a767f6deffdd84d2"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "easing":"fade",
+                                              "duration":500,
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7882dc887392438ea91d77236f11fae3"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "easing":"slideLeft",
+                                              "duration":500,
+                                              "showType":"none"}}}]},
+{
+                                      "action":"setPanelState",
+                                      "description":"设置 主菜单控制 to 关闭状态",
+                                      "panelsToStates":[{
+                                          "panelPath":["1c49b5405ff64555a50c178832d5d56c"],
+                                          "stateInfo":{
+                                            "setStateType":"diagram",
+                                            "stateNumber":1,
+                                            "stateValue":{
+                                              "exprType":"stringLiteral",
+                                              "value":"1",
+                                              "stos":[]},
+                                            "loop":false,
+                                            "showWhenSet":false,
+                                            "options":{
+                                              "compress":false}}}]}]}]}},
+                          "tabbable":true}],
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "image":null,
+                        "imageHorizontalAlignment":"near",
+                        "imageVerticalAlignment":"near",
+                        "imageRepeat":"auto"},
+                      "adaptiveStyles":{
+}}]}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"1c49b5405ff64555a50c178832d5d56c",
+          "label":"主菜单控制",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":10,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"da2cef61a044463099a424ce4f83df0b",
+              "label":"关闭状态",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"c672896dc7714db398b6e659f2fae149",
+                  "label":"",
+                  "parentDynamicPanel":"1c49b5405ff64555a50c178832d5d56c",
+                  "panelIndex":0,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":50,
+                      "height":36}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"显示 主菜单,<br>主菜单mask 淡入淡出 500 毫秒,<br>主菜单滑动面板 向右滑动 500 毫秒",
+                              "objectsToFades":[{
+                                  "objectPath":["5a4db4ffaf064488ba7ebb87b4a4b9be"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "showType":"none"}}},
+{
+                                  "objectPath":["ed5b5244bec24a11a767f6deffdd84d2"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}},
+{
+                                  "objectPath":["7882dc887392438ea91d77236f11fae3"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"slideRight",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setPanelState",
+                              "description":"设置 主菜单控制 to 打开状态",
+                              "panelsToStates":[{
+                                  "panelPath":["1c49b5405ff64555a50c178832d5d56c"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"73e3b7220d504e6a8e2b4eb09347695f",
+              "label":"打开状态",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"46be8d3b5ea04997aec521abb466606d",
+                  "label":"",
+                  "parentDynamicPanel":"1c49b5405ff64555a50c178832d5d56c",
+                  "panelIndex":1,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":50,
+                      "height":36}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 主菜单mask 淡入淡出 500 毫秒,<br>主菜单滑动面板 向左滑动 500 毫秒",
+                              "objectsToFades":[{
+                                  "objectPath":["ed5b5244bec24a11a767f6deffdd84d2"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}},
+{
+                                  "objectPath":["7882dc887392438ea91d77236f11fae3"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideLeft",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"setPanelState",
+                              "description":"设置 主菜单控制 to 关闭状态",
+                              "panelsToStates":[{
+                                  "panelPath":["1c49b5405ff64555a50c178832d5d56c"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "3743ef47471d4af29509aae6056004e1":{
+      "scriptId":"u0"},
+    "8fdd5f78f6a24684b3f5ae70203d404f":{
+      "scriptId":"u1"},
+    "e2bb9707190d47a9a86664d3c8023e43":{
+      "scriptId":"u2"},
+    "786074e3df07446bafaa40fd8663fc60":{
+      "scriptId":"u3"},
+    "f9462c58031f47ff9f7c676f89bb5878":{
+      "scriptId":"u4"},
+    "137a7aaf2395410fac118e1a26518679":{
+      "scriptId":"u5"},
+    "b9e8378cf2314f1a978a6876660c219b":{
+      "scriptId":"u6"},
+    "961ba39e02c54fcfad8f67c3c356b14a":{
+      "scriptId":"u7"},
+    "a2645f11f2c544e2b27b107c71487197":{
+      "scriptId":"u8"},
+    "f6fd5d77e7964704a58efb220e1b1881":{
+      "scriptId":"u9"},
+    "b5b047ac8576480ca85aae8245f117ae":{
+      "scriptId":"u10"},
+    "1427e6169538481fb355c93949146293":{
+      "scriptId":"u11"},
+    "e2e2eca2c26341639e0ca00e44f6c051":{
+      "scriptId":"u12"},
+    "a61048e6c25d48c7bf0d4ad85c59950f":{
+      "scriptId":"u13"},
+    "f11ca21721474af09751eb3f7c4baa89":{
+      "scriptId":"u14"},
+    "926494e3fb1f471794c124b04906fb51":{
+      "scriptId":"u15"},
+    "47a6ec085630449296f8464474277702":{
+      "scriptId":"u16"},
+    "a10020ed7e054de3a835d576f71efc73":{
+      "scriptId":"u17"},
+    "6d693d9438184f16a7a2bf859fa3bc9b":{
+      "scriptId":"u18"},
+    "8970b1fd265e44b5a458a271710d1dee":{
+      "scriptId":"u19"},
+    "203d839670684b6da69fb924275d7055":{
+      "scriptId":"u20"},
+    "b63fffef8477499bb344a17f150d7f6c":{
+      "scriptId":"u21"},
+    "9e80f4fb09bd4ad0afa4f3388ff642e4":{
+      "scriptId":"u22"},
+    "d8fe0364d209489497b9de0f4cde11f1":{
+      "scriptId":"u23"},
+    "da9a24961ec442978c8f56034d56239d":{
+      "scriptId":"u24"},
+    "0df42b78ab954fcb82f608ccc37028f9":{
+      "scriptId":"u25"},
+    "759a665308cb4a139a07c6bcb4019ef2":{
+      "scriptId":"u26"},
+    "b648a5db462946a583465eea95dd2d49":{
+      "scriptId":"u27"},
+    "5918fcf18aed4912a277944bf2883888":{
+      "scriptId":"u28"},
+    "992509cab1e144469948cd6bc4c39ba7":{
+      "scriptId":"u29"},
+    "a0da89f1cf0d4d40afe9bcb1e4930c46":{
+      "scriptId":"u30"},
+    "fac5be3b199f4a36869b03ec2a3b1b7f":{
+      "scriptId":"u31"},
+    "d2786358ca0e4d2782cf61c9053530b1":{
+      "scriptId":"u32"},
+    "7a3699498b104c20be016919bb8f6fb3":{
+      "scriptId":"u33"},
+    "4f2a8893dc6248049f7c7e80a371b860":{
+      "scriptId":"u34"},
+    "0d030538030840bc9c932dcb0bfbf366":{
+      "scriptId":"u35"},
+    "de1ecfc7d31146988675598f77a55837":{
+      "scriptId":"u36"},
+    "4d4ad77915cb4cdbb12f9e213f7c8a6e":{
+      "scriptId":"u37"},
+    "de4c281caa944423a03e0261fe3e67f5":{
+      "scriptId":"u38"},
+    "a9bc78e993f04e929211ebff94ac38ad":{
+      "scriptId":"u39"},
+    "d9813fe8856e4795bb4c19c0e636eeae":{
+      "scriptId":"u40"},
+    "61d5c8a0b0294b4f89dd6b36fcd60487":{
+      "scriptId":"u41"},
+    "c79ba3acc9c14142a5b6bbcc38dec376":{
+      "scriptId":"u42"},
+    "c8314189c43e43f6b38017ef76df1f18":{
+      "scriptId":"u43"},
+    "ae40e578c13f4fb68c5b9d32575a3eff":{
+      "scriptId":"u44"},
+    "f9d2e2fd41894ec095afa7690acde71b":{
+      "scriptId":"u45"},
+    "81f367e2b7e34495b5bb494df612944f":{
+      "scriptId":"u46"},
+    "9336c364b8b84c9dbdb171958cef0aa6":{
+      "scriptId":"u47"},
+    "c726855a9e0446ce85e00975d99357d2":{
+      "scriptId":"u48"},
+    "6e0dc1b4d6f24950bf3d4d32de336261":{
+      "scriptId":"u49"},
+    "d6d755db32ff4dff8dbb3e12ef564049":{
+      "scriptId":"u50"},
+    "e1a37f2e86904882bd2ddae5f6434b2c":{
+      "scriptId":"u51"},
+    "e0949210e6f54c16ae9c06b318d2e068":{
+      "scriptId":"u52"},
+    "a4212a23a8b14efbb39643f6318a8ec5":{
+      "scriptId":"u53"},
+    "8a5674ef80244e98b49a9bebe1d71dcc":{
+      "scriptId":"u54"},
+    "b69d7e575a024ae4a24ff52f40e6aa14":{
+      "scriptId":"u55"},
+    "fddb94daf7fb4fab8446d54829879631":{
+      "scriptId":"u56"},
+    "f03f864d4eb342fb9cd466e8d3a60640":{
+      "scriptId":"u57"},
+    "e59a8f5b7b7a49d08affc15225664f01":{
+      "scriptId":"u58"},
+    "34dcbcdd3ef142899cb06a0c000efd99":{
+      "scriptId":"u59"},
+    "d449fda72044481d9d4477cf4c0d3e21":{
+      "scriptId":"u60"},
+    "4a4e8043b5e04c4fb6c95d3fdd36488d":{
+      "scriptId":"u61"},
+    "3a5c223daffa45e297d5d2b2e48995bb":{
+      "scriptId":"u62"},
+    "70af64fb45e14571be903bd193aa1a00":{
+      "scriptId":"u63"},
+    "743526952e2748058aeafd7d48df471e":{
+      "scriptId":"u64"},
+    "7232fb9535414c78b88c689aed809e28":{
+      "scriptId":"u65"},
+    "7903f796755d4bc5a850dcd1ada0a7da":{
+      "scriptId":"u66"},
+    "5a4db4ffaf064488ba7ebb87b4a4b9be":{
+      "scriptId":"u67"},
+    "ed5b5244bec24a11a767f6deffdd84d2":{
+      "scriptId":"u68"},
+    "9d8c46fd3e8644ed9261e4b4a2e01341":{
+      "scriptId":"u69"},
+    "a7905eae839a46cc9099d774c00fb989":{
+      "scriptId":"u70"},
+    "7882dc887392438ea91d77236f11fae3":{
+      "scriptId":"u71"},
+    "a9ac554c49764352b409ed502cc39688":{
+      "scriptId":"u72"},
+    "199978f06f314e218d6fe90411b6b353":{
+      "scriptId":"u73"},
+    "44b9c462caa342f082b849ee3f90e138":{
+      "scriptId":"u74"},
+    "ae2850f8964b4cabb900577153da3bb6":{
+      "scriptId":"u75"},
+    "62f0c8dd20854ec8ae76c5e1651cf6c8":{
+      "scriptId":"u76"},
+    "1c49b5405ff64555a50c178832d5d56c":{
+      "scriptId":"u77"},
+    "c672896dc7714db398b6e659f2fae149":{
+      "scriptId":"u78"},
+    "46be8d3b5ea04997aec521abb466606d":{
+      "scriptId":"u79"}}});

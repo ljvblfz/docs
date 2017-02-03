@@ -1,0 +1,1182 @@
+﻿$axure.loadCurrentPage({
+  "url":"登录页.html",
+  "generationDate":new Date(1428915512109.5),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"b7a23ffaec8e42398cc61d82bb585715",
+    "type":"Axure:Page",
+    "name":"登录页",
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"center",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFF666666},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"微软雅黑",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+      "onLoad":{
+        "description":"OnLoad",
+        "cases":[{
+            "description":"用例 1",
+            "isNewIfGroup":false,
+            "actions":[{
+                "action":"wait",
+                "description":"等待5000毫秒",
+                "waitTime":5000},
+{
+                "action":"setPanelState",
+                "description":"设置 登录页轮显 to Next 向左滑动 out 500ms 向左滑动 in 500ms wrap repeat every 8000 ms",
+                "panelsToStates":[{
+                    "panelPath":["6032153a99d649679ab118414c2c7520"],
+                    "stateInfo":{
+                      "setStateType":"next",
+                      "stateNumber":1,
+                      "stateValue":{
+                        "exprType":"stringLiteral",
+                        "value":"1",
+                        "stos":[]},
+                      "loop":true,
+                      "showWhenSet":false,
+                      "repeat":8000,
+                      "options":{
+                        "animateOut":{
+                          "easing":"slideLeft",
+                          "duration":500},
+                        "animateIn":{
+                          "easing":"slideLeft",
+                          "duration":500},
+                        "compress":false}}}]}]}]}},
+    "diagram":{
+      "objects":[{
+          "id":"87f3a43e9fe0464fa91d7e1d3a05330e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "size":{
+              "width":1200,
+              "height":650},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"581b5b83a1204f2d93085296b78d5b5e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "size":{
+                  "width":1200,
+                  "height":650},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录页/u0.png"}},
+{
+          "id":"5036080cf0cc4c74b223585581da0c58",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF0069C0},
+            "location":{
+              "x":0,
+              "y":75},
+            "size":{
+              "width":1020,
+              "height":500},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"97912b1674c04f07a906a1ee81016ff2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF0069C0},
+                "location":{
+                  "x":0,
+                  "y":75},
+                "size":{
+                  "width":1020,
+                  "height":500},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录页/u2.png"}},
+{
+          "id":"6032153a99d649679ab118414c2c7520",
+          "label":"登录页轮显",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":75},
+            "size":{
+              "width":10,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"f58d29cf257543e4bfc43dc84c88afd6",
+              "label":"banner1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"8f4ed8a89cf84fac90f48ead7cdb7550",
+                  "label":"",
+                  "parentDynamicPanel":"6032153a99d649679ab118414c2c7520",
+                  "panelIndex":0,
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "size":{
+                      "width":1200,
+                      "height":500}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"94096f66f6da424eb3ce5485a4a600c6",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6032153a99d649679ab118414c2c7520",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontWeight":"400",
+                        "fontStyle":"normal",
+                        "size":{
+                          "width":1200,
+                          "height":500}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/登录页/u5.jpg"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"dab4d81418894403ba9b12a1e08c6286",
+              "label":"banner2",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"85189a7bc300463d966d192e4923ab28",
+                  "label":"",
+                  "parentDynamicPanel":"6032153a99d649679ab118414c2c7520",
+                  "panelIndex":1,
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "size":{
+                      "width":1200,
+                      "height":500}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"50ee9699171e46f3807632eea4462aff",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6032153a99d649679ab118414c2c7520",
+                      "panelIndex":1,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontWeight":"400",
+                        "fontStyle":"normal",
+                        "size":{
+                          "width":1200,
+                          "height":500}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/登录页/u7.jpg"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"d5b78f00cfab465580699f8fa5b055a8",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":110,
+              "y":17},
+            "size":{
+              "width":310,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8a908bb035434d00ae65ee63ec6abc4f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":110,
+                  "y":17},
+                "size":{
+                  "width":310,
+                  "height":42}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录页/u9.png"}},
+{
+          "id":"e3e36aa2cd914b669d435a92afdf71ed",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":110,
+              "y":597},
+            "size":{
+              "width":122,
+              "height":34}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"07de02e8664d44e5b5a4345752cfe73f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":110,
+                  "y":597},
+                "size":{
+                  "width":122,
+                  "height":34}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录页/u11.png"}},
+{
+          "id":"0502e6995f384d90a93de72f848d007d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "horizontalAlignment":"right",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":690,
+              "y":606},
+            "size":{
+              "width":330,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4d9026b2605243df9e6916aa846c84c8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"right",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":690,
+                  "y":606},
+                "size":{
+                  "width":330,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"13436dd91c024a82b20fe12022ada0e6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "horizontalAlignment":"right",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":731,
+              "y":39},
+            "size":{
+              "width":330,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dd16ac9c5d514519a2dd033a52609bb7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"right",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":731,
+                  "y":39},
+                "size":{
+                  "width":330,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"13f904f07892457392cc11fcd3581359",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1005,
+              "y":516},
+            "size":{
+              "width":25,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a7f9dbdece1c46e9b8e468b3d0d8b5df",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1005,
+                  "y":516},
+                "size":{
+                  "width":25,
+                  "height":24}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"设置 登录页轮显 to Previous 向右滑动 out 500ms 向右滑动 in 500ms wrap",
+                      "panelsToStates":[{
+                          "panelPath":["6032153a99d649679ab118414c2c7520"],
+                          "stateInfo":{
+                            "setStateType":"previous",
+                            "stateNumber":1,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":true,
+                            "showWhenSet":false,
+                            "options":{
+                              "animateOut":{
+                                "easing":"slideRight",
+                                "duration":500},
+                              "animateIn":{
+                                "easing":"slideRight",
+                                "duration":500},
+                              "compress":false}}}]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/登录页/u17.png"}},
+{
+          "id":"92cc4dbaea6c48ffbe0c68b1745abc2b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1041,
+              "y":516},
+            "size":{
+              "width":25,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1f8da36927cd4474ba311a0d05b2e39c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1041,
+                  "y":516},
+                "size":{
+                  "width":25,
+                  "height":24}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"设置 登录页轮显 to Next 向左滑动 out 500ms 向左滑动 in 500ms wrap",
+                      "panelsToStates":[{
+                          "panelPath":["6032153a99d649679ab118414c2c7520"],
+                          "stateInfo":{
+                            "setStateType":"next",
+                            "stateNumber":1,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":true,
+                            "showWhenSet":false,
+                            "options":{
+                              "animateOut":{
+                                "easing":"slideLeft",
+                                "duration":500},
+                              "animateIn":{
+                                "easing":"slideLeft",
+                                "duration":500},
+                              "compress":false}}}]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/登录页/u19.png"}},
+{
+          "id":"781b27cb58a242c9a95945100cf14161",
+          "label":"登录面板",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":710,
+              "y":129},
+            "size":{
+              "width":10,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"9046e747c3d54f2f8332598d7aef3fc5",
+              "label":"已登录过",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"ca4e5e3971db4c4b9bfe9de069f9a3ae",
+                  "label":"",
+                  "parentDynamicPanel":"781b27cb58a242c9a95945100cf14161",
+                  "panelIndex":0,
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "size":{
+                      "width":356,
+                      "height":366}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"3a3c333b5b3f420787c0cd7d2581c336",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"781b27cb58a242c9a95945100cf14161",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontWeight":"400",
+                        "fontStyle":"normal",
+                        "size":{
+                          "width":356,
+                          "height":366}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/登录页/u22.png"}},
+{
+                  "id":"304f2445e88143c0941d01cc7e26356d",
+                  "label":"",
+                  "parentDynamicPanel":"781b27cb58a242c9a95945100cf14161",
+                  "panelIndex":0,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":100,
+                      "y":316},
+                    "size":{
+                      "width":160,
+                      "height":24}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 登录面板 to 未登录过 淡入淡出 out 500ms 淡入淡出 in 500ms",
+                              "panelsToStates":[{
+                                  "panelPath":["781b27cb58a242c9a95945100cf14161"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "animateOut":{
+                                        "easing":"fade",
+                                        "duration":500},
+                                      "animateIn":{
+                                        "easing":"fade",
+                                        "duration":500},
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true},
+{
+                  "id":"66161761e3b2491994fd021b678f1bbb",
+                  "label":"",
+                  "parentDynamicPanel":"781b27cb58a242c9a95945100cf14161",
+                  "panelIndex":0,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":40,
+                      "y":263},
+                    "size":{
+                      "width":280,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 链接",
+                              "target":{
+                                "targetType":"page",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"bbbbb43c93fb4bdcac9f5e5eee496b79",
+                  "label":"",
+                  "parentDynamicPanel":"781b27cb58a242c9a95945100cf14161",
+                  "panelIndex":0,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":280,
+                      "y":0},
+                    "size":{
+                      "width":76,
+                      "height":70}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 登录面板 to 二维码登录 淡入淡出 out 500ms 淡入淡出 in 500ms",
+                              "panelsToStates":[{
+                                  "panelPath":["781b27cb58a242c9a95945100cf14161"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":3,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "animateOut":{
+                                        "easing":"fade",
+                                        "duration":500},
+                                      "animateIn":{
+                                        "easing":"fade",
+                                        "duration":500},
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"55d1c42f3b66406c91598ff819700a52",
+              "label":"未登录过",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"5e70914957174b48a07f7e8812fe4b22",
+                  "label":"",
+                  "parentDynamicPanel":"781b27cb58a242c9a95945100cf14161",
+                  "panelIndex":1,
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "size":{
+                      "width":356,
+                      "height":366}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"5ef51d51f1854b62a71d96ed803b27c7",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"781b27cb58a242c9a95945100cf14161",
+                      "panelIndex":1,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontWeight":"400",
+                        "fontStyle":"normal",
+                        "size":{
+                          "width":356,
+                          "height":366}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/登录页/u27.png"}},
+{
+                  "id":"66c38e4d3e9b4a0e8602ed84b94a8551",
+                  "label":"",
+                  "parentDynamicPanel":"781b27cb58a242c9a95945100cf14161",
+                  "panelIndex":1,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":39,
+                      "y":262},
+                    "size":{
+                      "width":280,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 链接",
+                              "target":{
+                                "targetType":"page",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"96ec5fc694cf42b18e522d7ff1332009",
+                  "label":"",
+                  "parentDynamicPanel":"781b27cb58a242c9a95945100cf14161",
+                  "panelIndex":1,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":280,
+                      "y":0},
+                    "size":{
+                      "width":76,
+                      "height":70}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 登录面板 to 二维码登录 淡入淡出 out 500ms 淡入淡出 in 500ms",
+                              "panelsToStates":[{
+                                  "panelPath":["781b27cb58a242c9a95945100cf14161"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":3,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "animateOut":{
+                                        "easing":"fade",
+                                        "duration":500},
+                                      "animateIn":{
+                                        "easing":"fade",
+                                        "duration":500},
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"d80effe371584e1cb8d5cf12833e56bb",
+              "label":"二维码登录",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"621c230ea960489d82c6c3c7193a2ea9",
+                  "label":"",
+                  "parentDynamicPanel":"781b27cb58a242c9a95945100cf14161",
+                  "panelIndex":2,
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "size":{
+                      "width":356,
+                      "height":365}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"dde852b04191496cbb1ca7c9af471b9a",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"781b27cb58a242c9a95945100cf14161",
+                      "panelIndex":2,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontWeight":"400",
+                        "fontStyle":"normal",
+                        "size":{
+                          "width":356,
+                          "height":365}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/登录页/u31.png"}},
+{
+                  "id":"dddd380820034222afcb4d6a5c4fe920",
+                  "label":"",
+                  "parentDynamicPanel":"781b27cb58a242c9a95945100cf14161",
+                  "panelIndex":2,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":88,
+                      "y":48},
+                    "size":{
+                      "width":190,
+                      "height":282}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 链接",
+                              "target":{
+                                "targetType":"page",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"91b57fb056f349389f64b1f571b7449d",
+                  "label":"",
+                  "parentDynamicPanel":"781b27cb58a242c9a95945100cf14161",
+                  "panelIndex":2,
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":280,
+                      "y":0},
+                    "size":{
+                      "width":76,
+                      "height":70}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 登录面板 to 已登录过 淡入淡出 out 500ms 淡入淡出 in 500ms",
+                              "panelsToStates":[{
+                                  "panelPath":["781b27cb58a242c9a95945100cf14161"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "animateOut":{
+                                        "easing":"fade",
+                                        "duration":500},
+                                      "animateIn":{
+                                        "easing":"fade",
+                                        "duration":500},
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"813ba1f59de641638800b62bc18825b7",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1041,
+              "y":601},
+            "size":{
+              "width":31,
+              "height":26}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"30e1485f95834c68b6ef0af5efb6f937",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1041,
+                  "y":601},
+                "size":{
+                  "width":31,
+                  "height":26}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录页/u35.png"}},
+{
+          "id":"e0bb050803bd4b349a1a27496a0ae4c8",
+          "label":"登录",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":750,
+              "y":390},
+            "size":{
+              "width":275,
+              "height":45}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 首页-执行层",
+                      "target":{
+                        "targetType":"page",
+                        "url":"首页-执行层.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "87f3a43e9fe0464fa91d7e1d3a05330e":{
+      "scriptId":"u0"},
+    "581b5b83a1204f2d93085296b78d5b5e":{
+      "scriptId":"u1"},
+    "5036080cf0cc4c74b223585581da0c58":{
+      "scriptId":"u2"},
+    "97912b1674c04f07a906a1ee81016ff2":{
+      "scriptId":"u3"},
+    "6032153a99d649679ab118414c2c7520":{
+      "scriptId":"u4"},
+    "8f4ed8a89cf84fac90f48ead7cdb7550":{
+      "scriptId":"u5"},
+    "94096f66f6da424eb3ce5485a4a600c6":{
+      "scriptId":"u6"},
+    "85189a7bc300463d966d192e4923ab28":{
+      "scriptId":"u7"},
+    "50ee9699171e46f3807632eea4462aff":{
+      "scriptId":"u8"},
+    "d5b78f00cfab465580699f8fa5b055a8":{
+      "scriptId":"u9"},
+    "8a908bb035434d00ae65ee63ec6abc4f":{
+      "scriptId":"u10"},
+    "e3e36aa2cd914b669d435a92afdf71ed":{
+      "scriptId":"u11"},
+    "07de02e8664d44e5b5a4345752cfe73f":{
+      "scriptId":"u12"},
+    "0502e6995f384d90a93de72f848d007d":{
+      "scriptId":"u13"},
+    "4d9026b2605243df9e6916aa846c84c8":{
+      "scriptId":"u14"},
+    "13436dd91c024a82b20fe12022ada0e6":{
+      "scriptId":"u15"},
+    "dd16ac9c5d514519a2dd033a52609bb7":{
+      "scriptId":"u16"},
+    "13f904f07892457392cc11fcd3581359":{
+      "scriptId":"u17"},
+    "a7f9dbdece1c46e9b8e468b3d0d8b5df":{
+      "scriptId":"u18"},
+    "92cc4dbaea6c48ffbe0c68b1745abc2b":{
+      "scriptId":"u19"},
+    "1f8da36927cd4474ba311a0d05b2e39c":{
+      "scriptId":"u20"},
+    "781b27cb58a242c9a95945100cf14161":{
+      "scriptId":"u21"},
+    "ca4e5e3971db4c4b9bfe9de069f9a3ae":{
+      "scriptId":"u22"},
+    "3a3c333b5b3f420787c0cd7d2581c336":{
+      "scriptId":"u23"},
+    "304f2445e88143c0941d01cc7e26356d":{
+      "scriptId":"u24"},
+    "66161761e3b2491994fd021b678f1bbb":{
+      "scriptId":"u25"},
+    "bbbbb43c93fb4bdcac9f5e5eee496b79":{
+      "scriptId":"u26"},
+    "5e70914957174b48a07f7e8812fe4b22":{
+      "scriptId":"u27"},
+    "5ef51d51f1854b62a71d96ed803b27c7":{
+      "scriptId":"u28"},
+    "66c38e4d3e9b4a0e8602ed84b94a8551":{
+      "scriptId":"u29"},
+    "96ec5fc694cf42b18e522d7ff1332009":{
+      "scriptId":"u30"},
+    "621c230ea960489d82c6c3c7193a2ea9":{
+      "scriptId":"u31"},
+    "dde852b04191496cbb1ca7c9af471b9a":{
+      "scriptId":"u32"},
+    "dddd380820034222afcb4d6a5c4fe920":{
+      "scriptId":"u33"},
+    "91b57fb056f349389f64b1f571b7449d":{
+      "scriptId":"u34"},
+    "813ba1f59de641638800b62bc18825b7":{
+      "scriptId":"u35"},
+    "30e1485f95834c68b6ef0af5efb6f937":{
+      "scriptId":"u36"},
+    "e0bb050803bd4b349a1a27496a0ae4c8":{
+      "scriptId":"u37"}}});
